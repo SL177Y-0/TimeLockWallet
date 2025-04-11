@@ -1,9 +1,5 @@
 # TimeLockWallet
 
-<p align="center">
-  <img src="frontend/public/logo.svg" alt="TimeLockWallet Logo" width="200" height="200" />
-</p>
-
 A decentralized application for locking ETH funds for a specified time period with early withdrawal penalties.
 
 ## 🌟 Features
