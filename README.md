@@ -2,6 +2,11 @@
 
 A decentralized application for locking ETH funds for a specified time period with early withdrawal penalties.
 
+# Demo
+
+https://github.com/user-attachments/assets/739378fa-d566-4964-8ff8-dc15490ed07b
+
+
 ## 🌟 Features
 
 - **Time-Locked ETH**: Lock your ETH for a predetermined time period
